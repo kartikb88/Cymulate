@@ -1,26 +1,15 @@
-Cymulate Login and WAF History Validation
+Cymulate Login & WAF History Verification
 
-This project provides automated tests for the login and WAF history functionality of the Cymulate web application. It uses the Mocha testing framework, the Chai assertion library, and the WebdriverIO automation tool to verify the behavior of the application.
+This project offers automated tests for login and WAF history features within the Cymulate web application. Utilizing the Mocha testing framework, Chai assertion library, and WebdriverIO automation tool to validate the application's behavior.
 
-Prerequisites
-Before running the tests, you need to have the following installed on your system:
+Requirements Before executing tests, ensure the following are installed on your system:
 
-Node.js
-npm (the Node.js package manager)
-Visual studio code(vscode)
-Python 3
-git
-Chrome browser v112
+Node.js npm (Node.js package manager) Visual Studio Code (vscode) Python 3 Git Chrome browser v112
 
-Installation
-To install the project dependencies, run the following command in the terminal:
-npm Install
+Setup To install project dependencies, input this command in the terminal: npm Install
 
-This will install Mocha, Chai, and WebdriverIO.
+This action installs Mocha, Chai, and WebdriverIO.
 
+To initiate the Test, input this command: npm run wdio
 
-To run the Test run followig command 
-npm run wdio
-
-after the command you can se the image for the results 
-![image](https://user-images.githubusercontent.com/58914355/233304457-7d934039-22cb-4fd1-979e-87690817bd3f.png)
+Post-command, view the image displaying the results.
