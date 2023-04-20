@@ -13,3 +13,4 @@ This action installs Mocha, Chai, and WebdriverIO.
 To initiate the Test, input this command: npm run wdio
 
 Post-command, view the image displaying the results.
+![image](https://user-images.githubusercontent.com/58914355/233306709-59bea283-80a1-43b7-b03e-8980a6c89300.png)
